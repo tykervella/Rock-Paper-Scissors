@@ -53,3 +53,5 @@ while (keep_playing) {
     }
 
 }
+
+alert ("Thanks for Playing!")
